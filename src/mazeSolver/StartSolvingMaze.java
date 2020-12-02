@@ -1,4 +1,4 @@
-package program2;
+package mazeSolver;
 /*
 This java file contains the StartSolvingMaze class that will ask user to input
 rows & columns for a maze and then runs

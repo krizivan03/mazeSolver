@@ -1,5 +1,5 @@
 // This class implements a JFrame which will display a Maze (written to combine walls and data)
-package program2;
+package mazeSolver;
 public class MazeDisplay extends javax.swing.JFrame implements Runnable, java.io.Serializable
 {
 	//------------ constants

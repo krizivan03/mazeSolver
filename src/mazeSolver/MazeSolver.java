@@ -1,4 +1,4 @@
-package program2;
+package mazeSolver;
 /*
 This class will contain the actual code to how the maze will solve itself
 */

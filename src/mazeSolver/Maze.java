@@ -5,7 +5,7 @@
     walls can be stored as well as the cells.  In the code, the variable names
     try to make it clear which it is working with (realRow vs arrayRow).
  */
-package program2;
+package mazeSolver;
 
 public class Maze implements java.io.Serializable
 {

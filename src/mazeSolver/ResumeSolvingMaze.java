@@ -1,4 +1,4 @@
-package program2;
+package mazeSolver;
 /*
 This java file will be able to pull up serialized file saved initially in MazeSolver.
 */

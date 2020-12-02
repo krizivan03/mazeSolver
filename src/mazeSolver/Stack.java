@@ -1,4 +1,4 @@
-package program2;
+package mazeSolver;
 
 /*
 Stack class that uses Generics 

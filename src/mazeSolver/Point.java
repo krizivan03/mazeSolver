@@ -1,6 +1,5 @@
-package program2;
+package mazeSolver;
 
-//package Program1;
 
 
 import java.math.*;
